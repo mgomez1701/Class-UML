@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\UMLDiagramLab\UMLLAB\UMLLAB\bin\Debug\netcoreapp3.0\UMLLAB.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\UMLDiagramLab\UMLLAB\UMLLAB\bin\Debug\netcoreapp3.0\UMLLAB.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\UMLDiagramLab\UMLLAB\UMLLAB\bin\Debug\netcoreapp3.0\UMLLAB.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\UMLDiagramLab\UMLLAB\UMLLAB\bin\Debug\netcoreapp3.0\UMLLAB.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\UMLDiagramLab\UMLLAB\UMLLAB\bin\Debug\netcoreapp3.0\UMLLAB.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\UMLDiagramLab\UMLLAB\UMLLAB\bin\Debug\netcoreapp3.0\UMLLAB.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\UMLDiagramLab\UMLLAB\UMLLAB\obj\Debug\netcoreapp3.0\UMLLAB.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\UMLDiagramLab\UMLLAB\UMLLAB\obj\Debug\netcoreapp3.0\UMLLAB.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\UMLDiagramLab\UMLLAB\UMLLAB\obj\Debug\netcoreapp3.0\UMLLAB.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\UMLDiagramLab\UMLLAB\UMLLAB\obj\Debug\netcoreapp3.0\UMLLAB.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\UMLDiagramLab\UMLLAB\UMLLAB\obj\Debug\netcoreapp3.0\UMLLAB.pdb
