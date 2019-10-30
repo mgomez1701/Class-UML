@@ -29,7 +29,8 @@ namespace UMLLAB
         public override void ToString()
         {
             base.ToString();
-           
+            Console.WriteLine(Program, Year, Fee); 
+
         }
 
     }

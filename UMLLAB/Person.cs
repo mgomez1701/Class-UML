@@ -25,7 +25,8 @@ namespace UMLLAB
 
         public virtual void ToString()
         {
-           
+            base.ToString();
+            Console.WriteLine(Name, Address);
         }
     }
 }

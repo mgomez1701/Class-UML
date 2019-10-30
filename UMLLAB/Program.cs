@@ -9,15 +9,24 @@ namespace UMLLAB
         static void Main(string[] args)
         {
 
-            Student student1 = new Student("Ben");
-            Student student2 = new Student("Glenn");
-            Student student3 = new Student("Doug");
+            Person student1 = new Student("Ben");
+            Person student2 = new Student("Glenn");
+            Person student3 = new Student("Doug");
 
-            Staff staff1 = new Staff("Mr. Rivas");
-            Staff staff2 = new Staff("Mrs. Rubio");
+            Person staff1 = new Staff("Mr. Rivas");
+            Person staff2 = new Staff("Mrs. Rubio");
 
-            List<Person> personList = new List<Person> { student1, student2, student3, staff1, staff2 };
-            Console.WriteLine(personList);
+
+            List<Person>listAll = new List <Person>{student1,student2,student3,staff1,staff2};
+            foreach(Person p in listAll)
+            {
+                Console.WriteLine(p.Name);
+            }
+
+         
+            
+           
+            
         }
     }
 }
